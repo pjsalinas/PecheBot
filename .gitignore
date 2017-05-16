@@ -1,0 +1,5 @@
+.env
+env.json
+claudia.json
+.DS_Store
+node_modules/

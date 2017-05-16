@@ -1,0 +1,25 @@
+{
+  "name": "pechebot",
+  "version": "1.0.0",
+  "description": "A bot which can answer questions for me, and can handle request from different platforms.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "claudia create --region us-east-1 --api-module bot",
+    "add platforms": "claudia",
+    "update": "claudia update"
+  },
+  "keywords": [
+    "bot",
+    "pechebot",
+    "slack",
+    "skype",
+    "telegram",
+    "twilio"
+  ],
+  "author": "Pedro J. Salinas <pedrojsalinas@gmail.com> (http://www.pechebot.com)",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^3.0.0"
+  }
+}
