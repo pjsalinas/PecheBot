@@ -1,0 +1,16 @@
+{
+    "BOT": "Hi there!\nI’m PecheBot, Pedro's personal assistant.\nI'll walk you along his accomplishements. Type any word between brackets to find out: [Education] [Career] [Activities]",
+    "MORE": "Here are some interesting things to try [Education] [Career] [Activities]",
+    "HELLO": "Hello back to you!!!",
+    "TELL HIM": "Let's tweet @ sqlo so he knows you're setting a bot up. Here's a tweet that's ready to go: <http://bit.ly/estherbot-tweet|Tweet>",
+    "EMAIL HIM": "Here is a ready email <mailto:pechebot@gmail.com|PecheBot>",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELP": "You can ask anything. There are several pre-defined answers. Just follow the following template: \n/pechebot your question.\nIf the response contains [word] them you can use the `word` between brackets.",
+
+
+    "ROBOT": "Hola!\nYo soy el bot personal de Pedro. Estoy aqui para responder sus preguntas. Todavia no puedo contestar preguntas provenientes de Emojis, Pictures, and Videos. Pero soy bueno con respuestas estructuradas. Siga con 'Education' 'Career' 'Activities'",
+    "HOLA": "Hola!!!",
+    "AVISALE": "Manda un tweet @ sqlo para que sepa que estas installando un bot. Este tweet esta listo para usar: <http://bit.ly/estherbot-tweet|Tweet>",
+    "TE AMO": "Que lindo. Yo tambien te amo!",
+    "AYUDA": "Puedes preguntar lo que quieras. Tenemos un monton the pre definidas respuestas. \nSigue el siguiente formato: /pechebot la pregunta"
+}

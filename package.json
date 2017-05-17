@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "claudia create --region us-east-1 --api-module bot",
-    "add platforms": "claudia",
+    "configure-slack-slash-command": "claudia update --configure-slack-slash-command",
+    "configure-telegram": "claudia update --configure-telegram-bot",
+    "configure-twilio": "claudia update --configure-twilio-sms-bot",
+    "configure-skype": "claudia update --configure-skype-bot",
     "update": "claudia update"
   },
   "keywords": [
@@ -20,6 +23,9 @@
   "author": "Pedro J. Salinas <pedrojsalinas@gmail.com> (http://www.pechebot.com)",
   "license": "MIT",
   "dependencies": {
+    "claudia-bot-builder": "^2.15.0",
+    "lodash": "^4.17.4",
     "twilio": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }
