@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "claudia create --region us-east-1 --api-module bot",
+    "update": "claudia update",
     "configure-slack-slash-command": "claudia update --configure-slack-slash-command",
-    "configure-telegram": "claudia update --configure-telegram-bot",
     "configure-twilio": "claudia update --configure-twilio-sms-bot",
-    "configure-skype": "claudia update --configure-skype-bot",
-    "update": "claudia update"
+    "configure-telegram": "claudia update --configure-telegram-bot",
+    "configure-skype": "claudia update --configure-skype-bot"
   },
   "keywords": [
     "bot",

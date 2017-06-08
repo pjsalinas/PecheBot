@@ -1,5 +1,3 @@
-.env
-env.json
-claudia.json
 .DS_Store
+claudia.json
 node_modules/
