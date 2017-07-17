@@ -1,31 +1,30 @@
 {
-	"BOT": "Hi there!.\nI'm PecheBot, Pedro's personal bot. I'm here to help you with your questions about him.\nI can't understand yet pictures, videos or emojis, but I am good with structured conversations.\nType: [Education] [Career] [Skills] [Activities]",
+	"BOT": "Hi there!.\nI'm PecheBot, Pedro's personal bot. I'm here to help you with your questions about him. I can't understand yet pictures, videos or emojis, but I am good with structured conversations. Type: [Education] [Career] [Skills] [Activities]",
 
-	"MORE": "Ok, here's other stuff to check out [Education] [Career] [Skills] [Activities] [Childhood]\nOr maybe you want interesting things or talk directly with Pedro. [Connect]",
-	
-  "LEARN MORE": "Ok, here's other stuff to check out [Education] [Career] [Skills] [Activities] [Childhood]\nOr maybe you want interesting things or talk directly with Pedro. [Connect]",
+	"MORE": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
   
-	"LEARN MORE ABOUT PEDRO": "Ok, here's other stuff to check out [Education] [Career] [Skills] [Activities] [Childhood]\nOr maybe you want interesting things or talk directly with Pedro. [Connect]",
-	
-  "MENU": "Ok, here's other stuff to check out [Education] [Career] [Skills] [Activities] [Childhood]\nOr maybe you want interesting things or talk directly with Pedro. [Connect]",
-	
-	
-  "EDUCATION": "Pedro has a BS in Civil Engineer from Universidad Catolica Andres Bello (UCAB) in Caracas Venezuela, and a BS in Computer Science from North Carolina Central University (NCCU) in Durham North Carolina. Type [ucab] [nccu] [more]",
+  "LEARN MORE": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
   
-	"UCAB": "More info about Universidad Catolica Andres Bello: https://www.wikiwand.com/en/Andr%C3%A9s_Bello_Catholic_University.",
-    "NCCU": "More info about North Carolina Central University: https://www.wikiwand.com/en/North_Carolina_Central_University",
+	"LEARN MORE ABOUT PEDRO": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
 	
-	"SKILLS": "He has experience with the following technologies:\nHTML, CSS, JavaScript\nPHP\nMySQL,\nNode.js\nClaudia.\nAs well as, he can speak Spanish and some Portuguese. Say[more] to chat.",
+  "MENU": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
 	
 	
-	"CHILDHOOD": "Pedro was born in Porlamar, which is in Margarita Island, Venezuela, at the north of South America. Type [Porlamar] [Margarita] [Venezuela]. Or say [more] to chat.",
+  "EDUCATION": "Pedro has a BS in Civil Engineer from Universidad Catolica Andres Bello (UCAB) in Caracas Venezuela, and a BS in Computer Science from North Carolina Central University (NCCU) in Durham North Carolina. Type: [ucab] [nccu] [more]",
+  
+	"UCAB": "Here is some info about Universidad Catolica Andres Bello: https://www.wikiwand.com/en/Andr%C3%A9s_Bello_Catholic_University",
+
+  "NCCU": "Here is some info about North Carolina Central University: https://www.wikiwand.com/en/North_Carolina_Central_University",
 	
-	"PORLAMAR": "You can find some facts about Porlamar here: http://www.wikipedia.com/en/porlamar [Margarita]. Or say [more] to chat.",
+	"SKILLS": "He has experience with the following technologies:\nHTML, CSS, JavaScript, Excel, Word, PowerPoint, PHP, MySQL, Node.js, Claudia.\nAs well as, he can speak Spanish and some Portuguese. Say [more] to chat.",
+	
+	"CHILDHOOD": "Pedro was born in Porlamar, which is in Margarita Island, Venezuela, at the north of South America. Type: [Porlamar] [Margarita] [Venezuela]. Or say [more] to chat.",
+	
+	"PORLAMAR": "You can find some facts about Porlamar here: https://www.wikiwand.com/en/Porlamar [Margarita]. Or say [more] to chat.",
 	
 	"MARGARITA": "Margarita island is located in the Caribbean Sea, and belong to Venezuela. Here you can find more info: http://www.wikipedia.com/en/margarita-island [Venezuela]. Or say [more] to chat.",
-    "VENEZUELA": "Venezuela is the northest of the South American countries. It's better known for its oil, and oil production. Here you can find more info: http://www.wikipedia.com/en/venezuela. Or say [more] to chat.",
-	
-	
+
+  "VENEZUELA": "Venezuela is the northest of the South American countries. It's better known for its oil, and oil production. Here you can find more info: http://www.wikipedia.com/en/venezuela. Or say [more] to chat.",
 	
 	"CONNECT": "Here is what I can do if you want to connect with Pedro:\nPedro's resume: https://goo.gl/P7AoHF,\nTwitter account: https://twitter.com/sqlo,\nEmail: pedrojsalinas@gmail.com,\nLinkedIn: https://www.linkedin.com/in/pjsalinas.\nOr,say [more] to chat.",
 	
@@ -33,13 +32,13 @@
   
   "CONNECT WITH PEDRO": "Here is what I can do if you want to connect with Pedro:\nPedro's resume: https://goo.gl/P7AoHF,\nTwitter account: https://twitter.com/sqlo,\nEmail: pedrojsalinas@gmail.com,\nLinkedIn: https://www.linkedin.com/in/pjsalinas.\nOr,say [more] to chat.",
 	
-	
-	
-  "CAREER": "Pedro has experience working in the private and public sector. He had has the opportunity to work in different areas throughout his career. AtThe beginning his career journey was in the field, building small structures and sport facilities in Margarita Island, Venezuela. He then moved to Caracas where he took a job as a Structural Civil Engineer where he designed and analysed metal structures for high voltage electrical Towers. [Tell me more] [Margarita] [Venezuela]",
+  "CAREER": "Pedro has experience working in the private and public sector. He had has the opportunity to work in different areas throughout his career. At the beginning his career journey was in the field, building small structures and sport facilities in Margarita Island, Venezuela. He then moved to Caracas where he took a job as a Structural Civil Engineer where he designed and analysed metal structures for high voltage electrical Towers. [Tell me more] [Margarita] [Venezuela]",
 	
   "TELL ME MORE": "After some deep thinking and knowing the economical situation in Venezuela was not ideal, he changed gears and took a job as a manager/owner in a bakery in the central part of Venezuela, where he could be close to his family. There he applied some of his engineering skills to fix and improve some of the bakery processes. [What else] [What processes]",
  
-  "WHAT ELSE": "He came to the US, and right away was enroll in English as a Second Language, to then, registered in a Master Degree in Structural Civil Engineering at City College in NYC. Which he needed to stop because a family related move from NYC to North Carolina. There, he found a job in Ninth Street Bakery, in Durham NC. Where he started as a office manager, and then move to CFO and had a small share participation. [Continue Please] [More]",
+  "WHAT ELSE": "He came to the US, and right away was enroll in English as a Second Language, to then, registered in a Master Degree in Structural Civil Engineering at City College in NYC. Which he needed to stop because a family related move from NYC to North Carolina. There, he found a job in Ninth Street Bakery, in Durham NC. Where he started as a office manager, and then move to CFO and had a small share participation in the bakery. [Continue Please] [More]",
+
+  "WHAT PROCESSES": "These are the processes. [Continue Please] [More]",
 	
 	"CONTINUE PLEASE": "After three years at the bakery, and in the last year or pursuing a degree in Computer Science, he took a position as the ESL Data Manager for the Durham Public Schools, position which held for 10 years. [What's next] or, say [More] to chat.",
 	
@@ -47,13 +46,13 @@
     "WHAT IS NEXT": "Now in Pittsburgh, Pedro wants to find his new opportunity. He is ready to go back to work. [Right Now], or say [more] to chat.",
 	"WHATS NEXT": "Now in Pittsburgh, Pedro wants to find his new opportunity. He is ready to go back to work. [Right Now], or say [more] to chat.",
 	
-	"RIGHT NOW": "Between helping his family to settle, getting to know Pittsburgh and its neighbors, coding and helping SickleSoft, he took classes online, at CCAC and Coursera. Right now, he is coding Slack Slash Commands to Query an Airtable Base using Claudia on AWS Lambda Functions. [sicklesoft] [connect] [more]",
+	"RIGHT NOW": "Between helping his family to settle, getting to know Pittsburgh and its neighbors, coding and helping SickleSoft, he took classes online, at CCAC and Coursera. Right now, he is coding Slack Slash Commands to integrate Airtable Bases using Claudia and AWS Lambda Functions. [sicklesoft] [connect] [more]",
 	
 	
 	"SICKLESOFT": "A small software company which its main products are related to the health field. Say [more] to chat.",
 	
 	
-	"ACTIVITIES": "He has participated in several activities in his home country and here in the US: Triathlon, Running, Tennis, Non-Profit.\nHe offered his services as the Bulletin translator, from English to Spanish, for Immaculata Catholic Church in Durham, NC.\nThen, he was elected treasurer, and later President, at`El Centro Hispano`, a non-profit organization that works and advocate for the Latino and other minorities in Durham, NC.\nHis triathlon experience goes from the short ones up to Half-Ironmans in Venezuela, and NorthCarolina.\nTennis is a family activity. Beside playing matches in USTA leagues, he has experience at Sectional levels and in 2016 he and his team had the opportunity to go to Nationals at the Mens 3.0 USTA in Arizona.\nOr say [more] to chat.",
+	"ACTIVITIES": "He has participated in several activities in his home country and here in the US: Triathlon, Running, Tennis, Non-Profit. At the beginning, he offered his services as the Bulletin translator, from English to Spanish, for Immaculata Catholic Church in Durham, NC. Then, he was elected treasurer, and later President, at`El Centro Hispano`, a non-profit organization that works and advocate for the Latino and other minorities in Durham, NC.\nHis triathlon experience goes from the short ones up to Half-Ironmans in Venezuela, and NorthCarolina. Tennis has been a family tradition for serveral years now. Beside playing matches in USTA leagues, he has experience at Sectional levels and in 2016 he and his team had the opportunity to go to Nationals at the Mens 3.0 USTA in Arizona. Right now he is the captain of the Men's 6.0 team in a USTA league.\nOr say [more] to chat.",
 	
 	
   "I AM HERE FOR THE BOT": "Ha, I knew it. Doesn't matter. Are you perhaps thinking about building your own bot?\n[I'd like to] [Not yet]",
