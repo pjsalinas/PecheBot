@@ -1,98 +1,110 @@
 {
-	"BOT": "Hi there!.\nI'm PecheBot, Pedro's personal bot. I'm here to help you with your questions about him. I can't understand yet pictures, videos or emojis, but I am good with structured conversations. Type: [Education] [Career] [Skills] [Activities]",
+  "BOT": "Hi there!.\nI'm PecheBot, Pedro's personal bot. I'm here to help you with your questions about him. I can't understand yet pictures, videos or emojis, but I am good with structured conversations.\nType:\n[1] Education\n[2] Career\n[3] Skills \n[4] Activities",
+  "START": "Hi there!.\nI'm PecheBot, Pedro's personal bot. I'm here to help you with your questions about him. I can't understand yet pictures, videos or emojis, but I am good with structured conversations.\nType:\n[1] Education\n[2] Career\n[3] Skills \n[4] Activities",
 
-	"MORE": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
-  
-  "LEARN MORE": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
-  
-	"LEARN MORE ABOUT PEDRO": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
+	"MORE": "Ok, here's other stuff to check out:\n[1] Education\n[2] Career\n[3] Skills\n[4] Activities\n[5] Childhood.\n[6] Connect, to talk directly with Pedro.",
+  "LEARN MORE": "Ok, here's other stuff to check out:\n[1] Education\n[2] Career\n[3] Skills\n[4] Activities\n[5] Childhood.\n[6] Connect, to talk directly with Pedro.",
+  "LEARN MORE ABOUT PEDRO": "Ok, here's other stuff to check out:\n[1] Education\n[2] Career\n[3] Skills\n[4] Activities\n[5] Childhood.\n[6] Connect, to talk directly with Pedro.",
+  "LEARN MORE ABOUT HIM": "Ok, here's other stuff to check out:\n[1] Education\n[2] Career\n[3] Skills\n[4] Activities\n[5] Childhood.\n[6] Connect, to talk directly with Pedro.",
 	
-  "MENU": "Ok, here's other stuff to check out: [Education] [Career] [Skills] [Activities] [Childhood]. Or maybe you want interesting things or talk directly with Pedro. [Connect]",
+  "MENU": "Ok, here's other stuff to check out:\n[1] Education\n[2] Career\n[3] Skills\n[4] Activities\n[5] Childhood.\n[6] Connect, to talk directly with Pedro.",
 	
-	
-  "EDUCATION": "Pedro has a BS in Civil Engineer from Universidad Catolica Andres Bello (UCAB) in Caracas Venezuela, and a BS in Computer Science from North Carolina Central University (NCCU) in Durham North Carolina. Type: [ucab] [nccu] [more]",
+  "EDUCATION": "Pedro has a BS in Civil Engineer from Universidad Catolica Andres Bello (UCAB) in Caracas Venezuela, and a BS in Computer Science from North Carolina Central University (NCCU) in Durham North Carolina.\nType:\n[1] UCAB\n[2] NCCU\n[3] More",
   
 	"UCAB": "Here is some info about Universidad Catolica Andres Bello: https://www.wikiwand.com/en/Andr%C3%A9s_Bello_Catholic_University",
 
   "NCCU": "Here is some info about North Carolina Central University: https://www.wikiwand.com/en/North_Carolina_Central_University",
 	
-	"SKILLS": "He has experience with the following technologies:\nHTML, CSS, JavaScript, Excel, Word, PowerPoint, PHP, MySQL, Node.js, Claudia.\nAs well as, he can speak Spanish and some Portuguese. Say [more] to chat.",
+	"SKILLS": "These are some of the technologies Pedro has experience with:\nHTML, CSS, JavaScript, Excel, Word, PowerPoint, PHP, MySQL, Node.js, Claudia.\nAs well as, he can speak Spanish and some Portuguese.\nOr say 'More' to chat.",
 	
-	"CHILDHOOD": "Pedro was born in Porlamar, which is in Margarita Island, Venezuela, at the north of South America. Type: [Porlamar] [Margarita] [Venezuela]. Or say [more] to chat.",
+	"CHILDHOOD": "Pedro was born in Porlamar, which is in Margarita Island, Venezuela, at the north of South America.\n[1] Porlamar\n[2] Margarita\n[3] Venezuela\n[4] More, to chat.",
 	
-	"PORLAMAR": "You can find some facts about Porlamar here: https://www.wikiwand.com/en/Porlamar [Margarita]. Or say [more] to chat.",
+	"PORLAMAR": "You can find some facts about Porlamar here: https://www.wikiwand.com/en/Porlamar\n[1] Margarita\n[2] More, to chat.",
 	
-	"MARGARITA": "Margarita island is located in the Caribbean Sea, and belong to Venezuela. Here you can find more info: http://www.wikipedia.com/en/margarita-island [Venezuela]. Or say [more] to chat.",
+	"MARGARITA": "Margarita island is located in the Caribbean Sea, and belong to Venezuela. Here you can find more info: http://www.wikipedia.com/en/margarita-island\n[1] Venezuela\n[2] More, to chat.",
 
-  "VENEZUELA": "Venezuela is the northest of the South American countries. It's better known for its oil, and oil production. Here you can find more info: http://www.wikipedia.com/en/venezuela. Or say [more] to chat.",
-	
-	"CONNECT": "Here is what I can do if you want to connect with Pedro:\nPedro's resume: https://goo.gl/P7AoHF,\nTwitter account: https://twitter.com/sqlo,\nEmail: pedrojsalinas@gmail.com,\nLinkedIn: https://www.linkedin.com/in/pjsalinas.\nOr,say [more] to chat.",
-	
-  "CONNECT WITH HIM": "Here is what I can do if you want to connect with Pedro:\nPedro's resume: https://goo.gl/P7AoHF,\nTwitter account: https://twitter.com/sqlo,\nEmail: pedrojsalinas@gmail.com,\nLinkedIn: https://www.linkedin.com/in/pjsalinas.\nOr,say [more] to chat.",
+  "VENEZUELA": "Venezuela is the northest of the South American countries. It's better known for its oil, and oil production. Here you can find more info: http://www.wikipedia.com/en/venezuela. Or say 'More' to chat.",
+  "VZLA": "Venezuela is the northest of the South American countries. It's better known for its oil, and oil production. Here you can find more info: http://www.wikipedia.com/en/venezuela. Or say 'More' to chat.",
+  "VEN": "Venezuela is the northest of the South American countries. It's better known for its oil, and oil production. Here you can find more info: http://www.wikipedia.com/en/venezuela. Or say 'More' to chat.",
   
-  "CONNECT WITH PEDRO": "Here is what I can do if you want to connect with Pedro:\nPedro's resume: https://goo.gl/P7AoHF,\nTwitter account: https://twitter.com/sqlo,\nEmail: pedrojsalinas@gmail.com,\nLinkedIn: https://www.linkedin.com/in/pjsalinas.\nOr,say [more] to chat.",
+	"CONNECT": "Here is what I can do if you want to connect with Pedro:\n[1] resume: http://bit.ly/pjs_resume_draft,\n[2] twitter: https://twitter.com/sqlo,\n[3] email: pedrojsalinas@gmail.com,\n[4] linkedIn: https://www.linkedin.com/in/pjsalinas.\n[5] github https://github.com/pjsalinas\n[6] More, to chat.",
+  "CONNECT WITH HIM": "Here is what I can do if you want to connect with Pedro:\n[1] resume: http://bit.ly/pjs_resume_draft,\n[2] twitter: https://twitter.com/sqlo,\n[3] email: pedrojsalinas@gmail.com,\n[4] linkedIn: https://www.linkedin.com/in/pjsalinas.\n[5] https://github github.com/pjsalinas\n[6] More, to chat.",
+  "CONNECT WITH PEDRO": "Here is what I can do if you want to connect with Pedro:\n[1] resume: http://bit.ly/pjs_resume_draft,\n[2] twitter: https://twitter.com/sqlo,\n[3] email: pedrojsalinas@gmail.com,\n[4] linkedIn: https://www.linkedin.com/in/pjsalinas.\n[5] https://github github.com/pjsalinas\n[6] More, to chat.",
 	
-  "CAREER": "Pedro has experience working in the private and public sector. He had has the opportunity to work in different areas throughout his career. At the beginning his career journey was in the field, building small structures and sport facilities in Margarita Island, Venezuela. He then moved to Caracas where he took a job as a Structural Civil Engineer where he designed and analysed metal structures for high voltage electrical Towers. [Tell me more] [Margarita] [Venezuela]",
+  "CAREER": "Pedro has experience working in the private and public sector. He had has the opportunity to work in different areas throughout his career. At the beginning his career journey was in the field, building small structures and sport facilities in Margarita Island, Venezuela. He then moved to Caracas where he took a job as a Structural Civil Engineer where he designed and analysed metal structures for high voltage electrical Towers.\n[1] Tell me more\n[2] Margarita\n[3] Venezuela",
 	
-  "TELL ME MORE": "After some deep thinking and knowing the economical situation in Venezuela was not ideal, he changed gears and took a job as a manager/owner in a bakery in the central part of Venezuela, where he could be close to his family. There he applied some of his engineering skills to fix and improve some of the bakery processes. [What else] [What processes]",
+  "TELL ME MORE": "After some deep thinking and knowing the economical situation in Venezuela was not ideal, he changed gears and took a job as a manager/owner in a bakery in the central part of Venezuela, where he could be close to his family.\n[1] What else\n[2] More, to chat.",
  
-  "WHAT ELSE": "He came to the US, and right away was enroll in English as a Second Language, to then, registered in a Master Degree in Structural Civil Engineering at City College in NYC. Which he needed to stop because a family related move from NYC to North Carolina. There, he found a job in Ninth Street Bakery, in Durham NC. Where he started as a office manager, and then move to CFO and had a small share participation in the bakery. [Continue Please] [More]",
-
-  "WHAT PROCESSES": "These are the processes. [Continue Please] [More]",
+  "WHAT ELSE": "He came to the US, and right away was enroll in English as a Second Language, to then, registered in a Master Degree in Structural Civil Engineering at City College in NYC. Which he needed to stop because a family related move from NYC to North Carolina. There, he found a job in Ninth Street Bakery, in Durham NC, where he started as a office manager, and later has a small share participation in the bakery.\n[1] Continue Please\n[2] More, to chat.",
 	
-	"CONTINUE PLEASE": "After three years at the bakery, and in the last year or pursuing a degree in Computer Science, he took a position as the ESL Data Manager for the Durham Public Schools, position which held for 10 years. [What's next] or, say [More] to chat.",
+	"CONTINUE PLEASE": "After three years at the bakery, and in the last year or pursuing a degree in Computer Science, he took a position as the ESL Data Manager at Durham Public Schools, position which held for 10 years.\n[1] What's next\n[2] More, to chat.",
 	
-	"WHAT'S NEXT": "Now in Pittsburgh, Pedro wants to find his new opportunity. He is ready to go back to work. [Right Now], or say [more] to chat.",
-    "WHAT IS NEXT": "Now in Pittsburgh, Pedro wants to find his new opportunity. He is ready to go back to work. [Right Now], or say [more] to chat.",
-	"WHATS NEXT": "Now in Pittsburgh, Pedro wants to find his new opportunity. He is ready to go back to work. [Right Now], or say [more] to chat.",
+	"WHAT'S NEXT": "Pedro move again, this time to Pittsburgh PA where he is looking for his new opportunity. He is ready to go back to work.\n[1] Right Now\n[2] More, to chat.",
+  "WHAT IS NEXT": "Pedro move again, this time to Pittsburgh PA where he is looking for his new opportunity. He is ready to go back to work.\n[1] Right Now\n[2] More, to chat.",
+	"WHATS NEXT": "Pedro move again, this time to Pittsburgh PA where he is looking for his new opportunity. He is ready to go back to work.\n[1] Right Now\n[2] More, to chat.",
 	
-	"RIGHT NOW": "Between helping his family to settle, getting to know Pittsburgh and its neighbors, coding and helping SickleSoft, he took classes online, at CCAC and Coursera. Right now, he is coding Slack Slash Commands to integrate Airtable Bases using Claudia and AWS Lambda Functions. [sicklesoft] [connect] [more]",
+	"RIGHT NOW": "Between helping his family to settle, getting to know Pittsburgh and its neighbors, coding, he have taken online classes at CCAC and Coursera. Last coding projects are some Slack Slash Commands to query and feed some of his Airtable Bases with the help of Node.js, AWS Lambda functions and Claudia a Node.js module.\n[1] Projects\n[2] Connect\n[3] More, to chat.",
 	
+	"SICKLESOFT": "A small software company which its main products are related to the health field: http://www.sicklesoft.com \nSay 'More' to chat.",
 	
-	"SICKLESOFT": "A small software company which its main products are related to the health field. Say [more] to chat.",
+	"ACTIVITIES": "He has participated in several activities in his home country and here in the US: Triathlon, Running, Tennis, Non-Profit. At the beginning, he offered his services as the Bulletin translator, from English to Spanish, for Immaculata Catholic Church in Durham, NC. Then, he was elected treasurer, and later President, at `El Centro Hispano`, a non-profit organization that works and advocate for the Latino and other minorities in Durham, NC. His triathlon experience goes from the short ones up to Half-Ironmans in Venezuela, and NorthCarolina. Tennis has been his family adopted sport for several years now, and beside playing matches in USTA leagues, he has experience at Sectional levels and in 2016 he and his team had the opportunity to go to Nationals at the Mens 3.0 USTA in Arizona. Right now he is the captain of the Men's 6.0 team in a USTA league.\nSay 'More' to chat.",
+  
+  "PROJECTS": "You can find some of his projects at: https://github.com/pjsalinas",
 	
-	
-	"ACTIVITIES": "He has participated in several activities in his home country and here in the US: Triathlon, Running, Tennis, Non-Profit. At the beginning, he offered his services as the Bulletin translator, from English to Spanish, for Immaculata Catholic Church in Durham, NC. Then, he was elected treasurer, and later President, at`El Centro Hispano`, a non-profit organization that works and advocate for the Latino and other minorities in Durham, NC.\nHis triathlon experience goes from the short ones up to Half-Ironmans in Venezuela, and NorthCarolina. Tennis has been a family tradition for serveral years now. Beside playing matches in USTA leagues, he has experience at Sectional levels and in 2016 he and his team had the opportunity to go to Nationals at the Mens 3.0 USTA in Arizona. Right now he is the captain of the Men's 6.0 team in a USTA league.\nOr say [more] to chat.",
-	
-	
-  "I AM HERE FOR THE BOT": "Ha, I knew it. Doesn't matter. Are you perhaps thinking about building your own bot?\n[I'd like to] [Not yet]",
-  "I'D LIKE TO": "Here are the read lines of how I did mine: https://pjsalinas.github.io/PecheBot/README.md\nSay [more] to chat.",
-  "I WOULD LIKE TO": "Here are the read lines of how I did mine: https://pjsalinas.github.io/PecheBot/README.md\nSay `more` to chat.",
-  "NOT YET": "Hmm... you probably are in research mode. Here some articles you can explore to start with. [Read Article] [Nah...]",
-  "READ ARTICLE": "Here is the link: http://pjsalinas.github.io/PecheBot/articles.md",
-  "NAH...": "Oky, no problem. Now is the time to find more about Pedro [LEARN ABOUT PEDRO]",
-  "NAH": "Ok, why don't explore other aspects:\n[Childhood] [Education] [Career]",
+  "I AM HERE FOR THE BOT": "Ha, I knew it. Doesn't matter. Are you perhaps thinking about building your own bot?\n[1] I'd like to\n[2] Not yet",
+  
+  "I'D LIKE TO": "Here are the read lines of how I did mine: https://github.com/pjsalinas/pechebot/\nSay [more] to chat.",
+  
+  "I WOULD LIKE TO": "Here are the read lines of how I did mine: https://github.com/pjsalinas/pechebot/\nSay `more` to chat.",
+  
+  "NOT YET": "Hmm... you probably are in research mode. Here some articles you can explore to start with.\n[1] Read Article\n[2] Nah...",
+  
+  "READ ARTICLE": "Here some links:\n[1] the link\n[2] the link\n[3] the link\n[4] More, to chat.",
+  
+  "NAH...": "Oky, no problem. Now is the time to find more about Pedro 'Learn About Pedro'",
+  "NAH": "Ok, why don't explore other aspects:\n[1] Childhood\n[2] Education\n[3] Career.",
  
  
-	
   "OK": "Great",
   "OKY": "Great",
   "OKAY": "Great",
+
+  "HEY": "Hey",
   "HEY PEDRO": "Hey",
+
   "HI": "Hi!",
   "HI!": "Hi!",
+
   "HELLO": "Hello!",
   "HELLO!": "Hello!",
+
   "HOW ARE YOU": "I'm fine, and you?",
   "HOW ARE YOU?": "I'm fine, and you?",
+
   "I LOVE YOU": "Sure! that was fast.",
   "I LOVE YOU?": "Sure! that was fast.",
+
   "YOU LOVE ME": "My feelings are way inside me",
   "DO YOU LOVE ME?": "My feelings are way inside me",
   "YOU LOVE ME?": "My feelings are way inside me",
+
 	"FUCK": "",
 	"FUCK YOU": "",
-	"FUCK U": "",
-	"PUT YOUR PANTS DOWN": "",
+  "FUCK U": "",
+  
+	"PUT YOUR PANTS DOWN": "I don't have any pants on ;)",
 	
 	
   "HOLA": "Hola!",
+
   "COMO ESTAS": "Yo, muy bien. Y tu?",
   "COMO ESTAS?": "Yo, muy bien. Y tu?",
+
   "TE AMO": "Seguro! Que rápido.",
   "TE AMO!": "Seguro! Que rápido.",
-  "ME AMAS": "Mis sentimientos están muy enterrados dentro de mi.",
-  "ME AMAS!": "Mis sentimientos están muy enterrados dentro de mi.",
+
+  "ME AMAS": "Mis sentimientos están muy ocultos dentro de mi.",
+  "ME AMAS!": "Mis sentimientos están muy ocultos dentro de mi.",
 	
 	"ROBOT":"¡Hola!. Soy PecheBot, el asistente personal de Pedro. Te acompañaré en su búsqueda para encontrar su nueva oportunidad en Pittsburgh. No puedo entender aún imágenes, videos o emojis, pero soy bueno con preguntas estructuradas. Para saber, escriba cualquier palabra entre paréntesis: [Educación] [Carrera] [Habilidades] [Actividades]"
 	
