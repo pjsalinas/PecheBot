@@ -21,7 +21,6 @@ const api = botBuilder((message, originalApiRequest) => {
 	// Check if text sent is the key for one of the pre-existing answers.
 	var response = _.get(scriptRules, upperText, "I didn't undestand that. Type [More] for info.");
 	
-  
 	if(message.type === 'slack-slash-command') {
 	  
 		return {
