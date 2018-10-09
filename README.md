@@ -1,5 +1,5 @@
 # PecheBot
-A Bot how can answer questions about me and my career.
+A Bot how can answer questions about me.
 
 ## Getting Started
 Very simple, just text "bot" to [PecheBot](http://www.pechebot.com) number, to
@@ -21,8 +21,8 @@ PecheBot make use of:
 * ```claudia update -- --configure-skype-bot```, use Microsoft App and save its ID and password
 * ```claudia update -- --configure-telegram-bot```, use the /botfather to create a new bot, and save the token.
 * ```claudia update -- --configure-slack-slash-command```, to use it with Slack Slash Commands. Follow the instructions on Slack on how to create a Slack Slash Command. Save the Slack Verification Token.
-* * ```anwser.json```, Edit it and make the necesary changes for suit your situation. Do not delete the "key" 'bot' on this file. You'll need it for the next step.
-*
+* ```anwser.json```, Edit it and make the necesary changes for suit your situation. Do not delete the "key" 'bot' on this file. You'll need it for the next step.
+
 ## Running the test
 Just text "bot" to your Twilio number, and you should receive an answer.
 
@@ -37,10 +37,10 @@ Still in version 1.0.0
 
 ## Authors
 * Pedro Salinas - That's me.
-*
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledments
 Big thank you to those whose code was used, and serve as inspiration
-* EstherBot
+* [EstherBot](https://github.com/esthercrawford/)
